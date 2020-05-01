@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "1.0",
+  "description": "bot personnel du kkk",
+  "main": "main.js",
+  "repository": "https://github.com/Aquafy2/kkkbot.git",
+  "author": "Aquafy <Aquafyservice@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
